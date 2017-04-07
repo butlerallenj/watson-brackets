@@ -1,4 +1,4 @@
-# watson-brackets
+# Watson
 A theme for Brackets
 
 ## HTML and Javascript
