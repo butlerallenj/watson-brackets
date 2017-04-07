@@ -1,7 +1,7 @@
 {
 	"name": "butlerallenj.watson",
 	"title": "Watson",
-	"description": "",
+	"description": "A Dark Theme with cool colors and warm accents from properties and methods.",
 	"homepage": "https://github.com/butlerallenj/watson-brackets",
 	"version": "1.0.0",
 	"author": "butlerallenj",
@@ -11,5 +11,5 @@
 		"dark": true,
 		"addModeClass": true
 	},
-	"keywords": ["theme", "dark", "earth"]
+	"keywords": ["theme", "dark", "earth", "python", "javascript", "cool", "watson"]
 }
